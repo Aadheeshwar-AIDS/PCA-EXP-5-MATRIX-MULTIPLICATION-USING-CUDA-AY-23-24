@@ -3,7 +3,7 @@
 <h3>NAME: Aadheeshwar A</h3>
 <h3>REGISTER NO: 212221230001</h3>
 <h3>EX.NO: 5</h3>
-<h3>DATE: 28.04.2024</h3>
+<h3>DATE: 16-04-2024</h3>
 <h1> <align=center> MATRIX MULTIPLICATION USING CUDA </h3>
   Implement Matrix Multiplication using GPU.</h3>
 
